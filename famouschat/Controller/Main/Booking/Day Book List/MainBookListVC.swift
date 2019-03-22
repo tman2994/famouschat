@@ -9,7 +9,7 @@
 import UIKit
 
 class MainBookListVC: UIViewController {
-////////////////////////////
+///////////////////////////
     @IBOutlet weak var back_img: UIImageView!
     @IBOutlet weak var back_btn: UIButton!
     @IBOutlet weak var menu_img: UIImageView!
