@@ -12,7 +12,7 @@ import NVActivityIndicatorView
 import ObjectMapper
 
 class MainBookVC: UIViewController, NVActivityIndicatorViewable {
-//////////////////////
+///////////////////////
     @IBOutlet weak var back_img: UIImageView!
     @IBOutlet weak var back_btn: UIButton!
     @IBOutlet weak var menu_img: UIImageView!
